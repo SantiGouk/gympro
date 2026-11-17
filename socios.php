@@ -194,7 +194,7 @@ try {
     <div class="header">
         <h2>Listado de Socios</h2>
         <div>
-        <a href="index.php" class="btn-nuevo">← Volver</a>
+        <a href="panel.php" class="btn-nuevo">← Volver</a>
         <a href="agregar_socio.php" class="btn-nuevo">+ Nuevo Socio</a>
         </div>
     </div>

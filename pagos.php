@@ -191,7 +191,7 @@ try {
     <div class="header">
         <h2>Historial de Pagos y Cuotas</h2>
         <div class="nav-buttons">
-            <a href="index.php" class="btn-accion">← Volver</a>
+            <a href="panel.php" class="btn-accion">← Volver</a>
             <a href="registrar_pago.php" class="btn-accion">+ Nuevo Cobro</a>
         </div>
     </div>

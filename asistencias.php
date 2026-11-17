@@ -141,7 +141,7 @@ try {
                         </div>
 
                         <div class="d-flex justify-content-between align-items-center mt-4">
-                            <a href="index.php" class="btn-volver">Volver</a>
+                            <a href="panel.php" class="btn-volver">Volver</a>
                             <button type="submit" class="btn-guardar">Registrar Ingreso</button>
                         </div>
                     </form>
