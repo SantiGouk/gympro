@@ -6,7 +6,7 @@
         </button>
         <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
             <ul class="navbar-nav align-items-center">
-                <li class="nav-item"><a class="nav-link" href="index.php">Inicio</a></li>
+                <li class="nav-item"><a class="nav-link" href="panel.php">Inicio</a></li>
                 <li class="nav-item"><a class="nav-link" href="socios.php">Socios</a></li>
                 <li class="nav-item"><a class="nav-link" href="planes.php">Planes</a></li>
                 <li class="nav-item"><a class="nav-link" href="pagos.php">Pagos</a></li>

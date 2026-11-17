@@ -23,7 +23,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     $_SESSION['usuario'] = $user['usuario'];
                     
                     // Redirige al index o panel principal
-                    header("Location: index.php");
+                    header("Location: panel.php");
                     exit();
                 } else {
                     $error = "Contraseña incorrecta.";
