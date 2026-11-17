@@ -1,0 +1,63 @@
+body {
+    background-color: #12161f;
+    color: #ffffff;
+}
+
+/* Forzar texto blanco y legible en todas las tablas del sistema */
+.table {
+    color: #ffffff !important;
+}
+
+.table th {
+    color: #ffffff !important;
+    background-color: #1a202c !important;
+    border-color: #2d3748 !important;
+}
+
+.table td {
+    color: #e2e8f0 !important;
+    border-color: #2d3748 !important;
+}
+body {
+    background-color: #12161f;
+    color: #ffffff;
+}
+
+/* Forzar texto blanco en todas las tablas y sus elementos internos */
+.table, .table th, .table td {
+    color: #ffffff !important;
+}
+
+.table th {
+    background-color: #1a202c !important;
+    border-color: #2d3748 !important;
+}
+
+.table td {
+    border-color: #2d3748 !important;
+}
+
+/* Por si hay textos secundarios dentro de las celdas que se pongan grises */
+.table td * {
+    color: #ffffff !important;
+}
+body {
+    background-color: #12161f;
+    color: #ffffff;
+}
+
+.table, .table th, .table td {
+    color: #ffffff !important;
+}
+
+/* Cambiar el color de las letras del menú al pasar el cursor al verde flúor del sistema */
+.navbar a:hover, .nav-link:hover {
+    color: #00ff66 !important;
+    text-decoration: none;
+}
+/* Estilo para el logo o título principal del menú GYMPRO */
+.navbar-brand {
+    color: #00ff66 !important;
+    font-size: 30px !important; /* Ajustá este valor si lo querés un poco más grande o chico */
+    font-weight: bold;
+}
